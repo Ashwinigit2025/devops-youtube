@@ -1,1 +1,1 @@
-Sample file to be uploaded into S3
+the magicSample file to be uploaded into S3
