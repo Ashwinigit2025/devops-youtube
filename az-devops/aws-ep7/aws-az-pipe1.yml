@@ -17,7 +17,7 @@ stages:
 
     - task: Bash@3
       name: createS3
-      displayName: 'Create S3 bucket'
+      displayName: ' this is to Create S3 bucket'
       inputs:
         targetType: 'inline'
         script: |
